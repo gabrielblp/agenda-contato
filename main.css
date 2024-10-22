@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(245, 245, 151);
+    color: black;
+    padding-bottom: 2px;
+    margin: 4px;
+    box-sizing: border-box;
+    justify-content: space-between;
+
+}
+#btn-salvar{
+    background-color: goldenrod;
+}
+#form-atividade input{
+    text-align: center;
+}
